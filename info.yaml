@@ -1,7 +1,7 @@
 
 # Tiny Tapeout project information
 project:
-  title:        "tt_um_nishVGA"      # Project title
+  title:        "nishVGA"      # Project title
   author:       "Leon Luo"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "DADADA"      # One line description of what your project does
